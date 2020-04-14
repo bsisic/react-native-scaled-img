@@ -14,8 +14,7 @@ react-native-scaled-img allow you to make an image responsive and scalable by de
 `const imgToScaled = require('./assets/imgToScaled.png')`
 
 ## use
-
-`<ScaledImng 
+`<ScaledImg 
     source={imgToScaled}
     width={200}
     style={{ opacity: 0.5 }}
