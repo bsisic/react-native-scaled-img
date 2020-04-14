@@ -1,0 +1,33 @@
+{
+  "name": "react-native-scaled-img",
+  "version": "1.0.0",
+  "description": "react-native-scaled-img allow you to make an image responsive and scalable by defining only a local url source, a height or a width, and the dimensions of the screen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsisic/react-native-scaled-img.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "scaled",
+    "image",
+    "img",
+    "responsive",
+    "dimensions"
+  ],
+  "author": "“bsisic” <“baptiste@redpillparis.com”> (“https://twitter.com/BaptisteSisic”)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bsisic/react-native-scaled-img/issues"
+  },
+  "homepage": "https://github.com/bsisic/react-native-scaled-img#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-native": "^0.62.2"
+  }
+}
