@@ -1,6 +1,6 @@
 {
   "name": "react-native-scaled-img",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-native-scaled-img allow you to make an image responsive and scalable by defining only a local url source, a height or a width, and the dimensions of the screen.",
   "main": "index.js",
   "scripts": {
